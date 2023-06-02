@@ -1,5 +1,5 @@
 {
-  "require": {
-    "vlucas/phpdotenv": "^5.4.1"
-  }
+    "require": {
+        "vlucas/phpdotenv": "^5.5"
+    }
 }
